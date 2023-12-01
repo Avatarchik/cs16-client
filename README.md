@@ -11,3 +11,6 @@ Counter-Strike 1.6 client.dll rewrite project.
 * Does not contain any decompiled code and GMO.
 
 Write your issues here. 
+
+1. Can it play replays?
+2. If so, it would be super useful if there was finally a way to convert .dem to .mp4 in a headless fashion and specify params like which player POV to record, include audio, what timestamp to what timestamp, etc
